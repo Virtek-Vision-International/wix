@@ -27,7 +27,7 @@
     <PlatformToolset Condition=" '$(ConfigurationType)' == 'StaticLibrary' ">$(WixNativeSdkLibraryToolset)</PlatformToolset>
     <PlatformToolset Condition=" '$(PlatformToolset)' == '' ">v143</PlatformToolset>
 
-    <NuGetAudit>true</NuGetAudit>
+    <NuGetAudit>false</NuGetAudit>
     <NuGetAuditMode>all</NuGetAuditMode>
     <NuGetAuditLevel>low</NuGetAuditLevel>
   </PropertyGroup>

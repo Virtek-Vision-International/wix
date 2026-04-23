@@ -15,7 +15,7 @@
     <!-- SomeVer configuration -->
     <SomeVerDefaultPreReleaseIdentifiers>build</SomeVerDefaultPreReleaseIdentifiers>
     <SomeVerIncludeDefaultPreReleaseIdentifiersWithPrereleases>true</SomeVerIncludeDefaultPreReleaseIdentifiersWithPrereleases>
-    <SomeVerTagPrefix>v</SomeVerTagPrefix>
+    <SomeVerTagPrefix>virtek/v</SomeVerTagPrefix>
 
     <!-- Pretend that the SomeVer information was imported because we'll actually be creating it here -->
     <SomeVerInfoImported>true</SomeVerInfoImported>

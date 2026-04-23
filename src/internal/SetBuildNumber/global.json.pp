@@ -6,6 +6,7 @@
     "WixToolset.Sdk": "{packageversion}"
   },
   "sdk": {
+    "version" : "9.0.313",
     "allowPrerelease": false
   }
 }
