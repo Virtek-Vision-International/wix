@@ -4,5 +4,6 @@
 <Project Sdk="Microsoft.Build.Traversal">
   <ItemGroup>
     <ProjectReference Include="**\*.wixproj" />
+    <ProjectReference Remove="MsmqExtensionTests\**\*.wixproj" />
   </ItemGroup>
 </Project>
