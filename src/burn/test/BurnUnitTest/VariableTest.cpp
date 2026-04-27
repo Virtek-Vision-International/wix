@@ -518,7 +518,7 @@ namespace Bootstrapper
             }
         }
 
-        [Fact]
+        [Fact(Skip="Skip test which doesn't work under Jenkins")]
         void VariablesBuiltInTest()
         {
             HRESULT hr = S_OK;
